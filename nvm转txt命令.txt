@@ -1,0 +1,1 @@
+sed "s/\x00/\n/g" nvram.nvm >nvram.txt
