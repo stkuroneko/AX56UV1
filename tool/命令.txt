@@ -1,0 +1,1 @@
+./nvserial -a -s 100 -o nvram.nvm nvram.txt
